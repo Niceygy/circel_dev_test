@@ -1,0 +1,17 @@
+body {
+    background-color: lightblue;
+    body ;}:text-align: centre;
+      div {
+  
+  p {
+    font-family: verdana; 
+        font-size: 20px;
+    text-align: center
+  }
+
+  div, iframe {
+  width: 1000px;
+  height: 500px;
+  margin: 0 auto;
+  background-color: #777;
+  display:block; }
