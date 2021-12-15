@@ -1,4 +1,8 @@
-  /*background */
+p {
+font-family: 'Courier New', monospace;
+}
+
+/*background */
 
   div {
   background-image: url('/bk.jpg');
